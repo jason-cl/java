@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="OCROnline"
+  id="myeclipse.1360032716160"
+  context-root="/OCROnline"
+  j2ee-spec="6.0"
+  archive="OCROnline.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
